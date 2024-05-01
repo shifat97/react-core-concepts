@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 520px;
+}
+
+@media screen and (min-width: 1240px) {
+  body {
+    max-width: 1240px;
+    margin: 0 auto;
+  }
+}
