@@ -1,11 +1,11 @@
 import './App.css'
-import Cities from './Lesson_3/Cities/Cities';
+import Bottles from './Lesson_4/Bottles';
 
 
 function App() {
 	return (
 		<div>
-			<Cities></Cities>
+			<Bottles></Bottles>
 		</div>
 	)
 }

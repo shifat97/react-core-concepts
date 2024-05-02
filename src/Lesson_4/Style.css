@@ -1,0 +1,37 @@
+.bottles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  align-items: center; 
+  gap: 15px;
+}
+
+.bottle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid mediumaquamarine;
+  padding: 10px;
+  border-radius: 12px;
+  gap: 15px;
+}
+
+button {
+  background-color: skyblue;
+  color: #fff;
+  border: none;
+  outline: none;
+  padding: 8px 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: tomato;
+}
+
+h3 {
+  text-align: center;
+  margin: 12px;
+}

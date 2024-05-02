@@ -1,0 +1,64 @@
+{
+  "bottles": [
+    {
+      "id": 1,
+      "name": "Wine Bottle",
+      "image": "./images/bottle_1.jpeg",
+      "price": 15.99
+    },
+    {
+      "id": 2,
+      "name": "Whiskey Bottle",
+      "image": "./images/bottle_2.jpeg",
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "name": "Vodka Bottle",
+      "image": "./images/bottle_3.jpeg",
+      "price": 24.99
+    },
+    {
+      "id": 4,
+      "name": "Rum Bottle",
+      "image": "./images/bottle_4.jpeg",
+      "price": 19.99
+    },
+    {
+      "id": 5,
+      "name": "Tequila Bottle",
+      "image": "./images/bottle_5.jpeg",
+      "price": 22.99
+    },
+    {
+      "id": 6,
+      "name": "Gin Bottle",
+      "image": "./images/bottle_6.jpeg",
+      "price": 18.99
+    },
+    {
+      "id": 7,
+      "name": "Beer Bottle",
+      "image": "./images/bottle_7.jpeg",
+      "price": 8.99
+    },
+    {
+      "id": 8,
+      "name": "Cognac Bottle",
+      "image": "./images/bottle_8.jpeg",
+      "price": 34.99
+    },
+    {
+      "id": 9,
+      "name": "Brandy Bottle",
+      "image": "./images/bottle_9.jpeg",
+      "price": 27.99
+    },
+    {
+      "id": 10,
+      "name": "Liqueur Bottle",
+      "image": "./images/bottle_10.jpeg",
+      "price": 21.99
+    }
+  ]
+}
