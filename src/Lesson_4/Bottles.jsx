@@ -15,7 +15,7 @@ function Bottles() {
 
   useEffect(() => {
     const storedCart = getCartStorage();
-    console.log(storedCart);
+    setCart(storedCart);
   }, [bottles]);
 
   const handleAddToCart = (bottle) => {
